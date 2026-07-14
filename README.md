@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am the CTO of https://www.tarmac.io and CTO & Parnter of https://www.inaudio.com
+
 <!--
 **brentkastner/brentkastner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
